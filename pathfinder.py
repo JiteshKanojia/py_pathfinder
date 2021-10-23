@@ -1,5 +1,6 @@
 import numpy as np
 
+# -1 denotes the walls of a maze
 maze_array = [[0, 0, 0, 0, 0],
               [0, 0,-1,-1, 0],
               [0, 0, 0,-1, 0],
